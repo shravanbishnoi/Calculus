@@ -1,2 +1,2 @@
 # Calculus
-It is our math repository for calculus-II.
+This GitHub repository is for Calculus-II course from semester-2.
